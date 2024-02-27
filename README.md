@@ -4,4 +4,4 @@ This repo is for collaborating on both internal and external documentation for D
 
 - Levai Agbara
 - Temitope Oyedele
-
+- August Lindgren-Ruby
