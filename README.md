@@ -4,3 +4,5 @@ This repo is for collaborating on both internal and external documentation for D
 
 - Levai Agbara
 - Jennifer Beech
+- Temitope Oyedele
+- August Lindgren-Ruby
